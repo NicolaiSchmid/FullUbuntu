@@ -1,0 +1,1 @@
+This is an image, based on ubuntu including all regular tools, like curl, ping, tail, etc for debugging a Kubernetes Cluster
